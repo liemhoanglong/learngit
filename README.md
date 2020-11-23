@@ -2,4 +2,6 @@
 Long :)
 đang học git
 dev edit
-dev nghe
+1712576: alo
+dev: nghe
+1712576: hello
